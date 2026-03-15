@@ -87,5 +87,7 @@ Jupyter Notebook
 Conclusion
 
 This project demonstrates the process of experimenting with both unsupervised and supervised machine learning techniques to analyze lung cancer risk prediction.
+## Confusion Matrix
+![Confusion Matrix](
 
 While clustering did not produce meaningful separations, logistic regression provided a baseline predictive model and highlighted areas for further model improvement.
